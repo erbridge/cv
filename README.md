@@ -13,7 +13,7 @@ a log and source of data to create a real CV from as needed.
 
 ### Developer at dxw
 
-**February 2020 - July 2020**
+**February 2019 - July 2020**
 
 ### Lead Developer at Sensible Object
 
