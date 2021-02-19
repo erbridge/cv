@@ -7,9 +7,13 @@ a log and source of data to create a real CV from as needed.
 
 ## Experience
 
+### Head of Development at dxw
+
+**February 2021 -**
+
 ### Technical Architect at dxw
 
-**July 2020 -**
+**July 2020 - February 2021**
 
 ### Developer at dxw
 
