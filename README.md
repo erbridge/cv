@@ -7,9 +7,17 @@ a log and source of data to create a real CV from as needed.
 
 ## Experience
 
+### Technical Lead at Out Future Health
+
+**October 2022 -**
+
+### Technology Strategy Consultant at Geeks for Social Change
+
+**September 2022 -**
+
 ### Head of Development at dxw
 
-**February 2021 -**
+**February 2021 - October 2022**
 
 ### Technical Architect at dxw
 
